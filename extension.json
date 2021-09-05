@@ -1,9 +1,9 @@
 {
-    "identifier": "ch.yatah",
-    "name": "Popping and Locking",
+    "identifier": "ch.yatah.poppingandlocking",
+    "name": "Popping and Locking - Darker",
     "organization": "yatah GmbH",
     "description": "A vivid colors theme that captures your attention.",
-    "version": "1.0",
+    "version": "1.0.1",
     "categories": ["themes"],
     "bugs": "https://github.com/minauen/nova-theme-popping-and-locking/issues",
     "repository": "https://github.com/minauen/nova-theme-popping-and-locking"

@@ -1,7 +1,9 @@
-# Popping and Locking
+# Popping and Locking - Darker
 
 This theme is designed to have vivid colors, capture your attention and be pleasing to look at all day. 
 According to its originator [Hedinn Eriksson](https://github.com/hedinne), he derived the Popping and Locking color scheme from these other themes: VS Dark+, Gruvbox Dark and One Dark.
+
+For a higher contrast I adjusted the background color to be a bit darker than in the original.
 
 ![Typescript](https://raw.githubusercontent.com/minauen/nova-theme-popping-and-locking-/master/Images/popping-locking-typescript.png)
 ![tsx](https://raw.githubusercontent.com/minauen/nova-theme-popping-and-locking-/master/Images/popping-locking-tsx.png)
